@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
         {
             name: "ヌーン",
@@ -64,64 +64,49 @@ document.addEventListener('DOMContentLoaded', () => {
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
         {
-            name: "",
-            role: "ATHLETE",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
-        },
-        {
-            name: "",
-            role: "ATHLETE",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
-        },
-        {
-            name: "",
-            role: "ATHLETE",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
-        },
-        {
-            name: "",
+            name: "ヒカル",
             role: "アスリート",
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
         {
-            name: "",
+            name: "yuri",
             role: "アスリート",
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
         {
-            name: "",
+            name: "はなこ",
             role: "アスリート",
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
         {
-            name: "",
+            name: "えいちゃん",
             role: "アスリート",
             image: "images/ore.png",
             x: "",
             youtube: "",
-            tiktok: "https://www.tiktok.com/@love52552"
+            tiktok: ""
         },
+        {
+            name: "きさらぎ　ねこ",
+            role: "アスリート",
+            image: "images/ore.png",
+            x: "",
+            youtube: "",
+            tiktok: ""
+        },
+
     ];
 
     // --- プレイヤーカードのレンダリング ---
