@@ -122,6 +122,15 @@ document.addEventListener('DOMContentLoaded', () => {
             youtube: "https://www.youtube.com/@kisaragi_neko02",
             tiktok: "https://www.tiktok.com/@kisaragi_neko"
         },
+        {
+            name: "にゃんｺ",
+            role: "アスリート",
+            image: "images/nyanko.png",
+            x: "",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@dt_net85"
+        },
+                
     ];
 
     // --- プレイヤーカードのレンダリング ---
