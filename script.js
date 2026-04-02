@@ -175,15 +175,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const observerOptions = {
         root: null,
         rootMargin: '0px',
-        threshold: 0.15
+        threshold: 0.1
     };
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('is-visible');
-            } else {
-                entry.target.classList.remove('is-visible');
+                // Once visible, stop observing to prevent flickering or disappearing on scroll
+                observer.unobserve(entry.target);
             }
         });
     }, observerOptions);
