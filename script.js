@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
             youtube: "",
             tiktok: "https://www.tiktok.com/@dt_net85"
         },
-                
+
     ];
 
     // --- プレイヤーカードのレンダリング ---
