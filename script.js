@@ -22,15 +22,23 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "俺はお前",
             role: "モデレーター",
             image: "images/ore.png",
-            x: "",
+            x: "https://x.com/T4139282616645",
             youtube: "",
             tiktok: "https://www.tiktok.com/@love52552"
+        },
+        {
+            name: "らふた",
+            role: "モデレーター",
+            image: "images/rafuta.png",
+            x: "",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@rfutatyan"
         },
         {
             name: "axie",
             role: "アスリート",
             image: "images/axie.png",
-            x: "",
+            x: "https://x.com/axiefnbr1",
             youtube: "",
             tiktok: "https://www.tiktok.com/@axie.ps5.fnbr1"
         },
@@ -38,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "kuya",
             role: "アスリート",
             image: "images/kuya.png",
-            x: "",
+            x: "https://x.com/AMKuyafv",
             youtube: "",
             tiktok: "https://www.tiktok.com/@am_kuyafv"
         },
@@ -46,67 +54,74 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "yuta",
             role: "アスリート",
             image: "images/yuta.png",
-            x: "",
+            x: "https://x.com/Eo5oqbd4rf85010",
             youtube: "",
             tiktok: "https://www.tiktok.com/@cs.yuta"
         },
         {
-            name: "yufuto",
+            name: "ゆり",
             role: "アスリート",
-            image: "images/ore.png",
-            x: "",
+            image: "images/yuri.png",
+            x: "https://x.com/RtxGoe7",
             youtube: "",
-            tiktok: ""
-        },
-        {
-            name: "ヌーン",
-            role: "アスリート",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: ""
-        },
-        {
-            name: "ヒカル",
-            role: "アスリート",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: ""
-        },
-        {
-            name: "yuri",
-            role: "アスリート",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: ""
-        },
-        {
-            name: "はなこ",
-            role: "アスリート",
-            image: "images/ore.png",
-            x: "",
-            youtube: "",
-            tiktok: ""
+            tiktok: "https://www.tiktok.com/@yarina365"
         },
         {
             name: "えいちゃん",
             role: "アスリート",
-            image: "images/ore.png",
+            image: "images/eichan.png",
             x: "",
             youtube: "",
-            tiktok: ""
+            tiktok: "https://www.tiktok.com/@meil_vl"
         },
         {
-            name: "きさらぎ　ねこ",
+            name: "yufuto",
             role: "アスリート",
-            image: "images/ore.png",
+            image: "images/yufuto.png",
             x: "",
             youtube: "",
-            tiktok: ""
+            tiktok: "https://www.tiktok.com/@yufuto"
         },
-
+        {
+            name: "ヌーン",
+            role: "アスリート",
+            image: "images/noon.png",
+            x: "",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@sudamasakininaritai02"
+        },
+        {
+            name: "ヒカル",
+            role: "アスリート",
+            image: "images/hikaru.png",
+            x: "",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@hikaru9226"
+        },
+        {
+            name: "okapi",
+            role: "アスリート",
+            image: "images/okapi.png",
+            x: "",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@am_okapii"
+        },
+        {
+            name: "はなこ",
+            role: "アスリート",
+            image: "images/hanako.png",
+            x: "https://x.com/hanako2niei",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@tomuyankuruzu"
+        },
+        {
+            name: "如月 ねこ",
+            role: "アスリート",
+            image: "images/kisaragi.png",
+            x: "https://x.com/ki3ragi_neko",
+            youtube: "https://www.youtube.com/@kisaragi_neko02",
+            tiktok: "https://www.tiktok.com/@kisaragi_neko"
+        },
     ];
 
     // --- プレイヤーカードのレンダリング ---
