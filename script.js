@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "にゃんｺ",
             role: "アスリート",
             image: "images/nyanko.png",
-            x: "",
+            x: "https://x.com/Fusoku_neko",
             youtube: "",
             tiktok: "https://www.tiktok.com/@dt_net85"
         },
