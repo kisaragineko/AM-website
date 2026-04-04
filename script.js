@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "KunKun",
-            role: "モデレーター",
+            role: "",
             image: "images/kunkun.png",
             x: "",
             youtube: "",
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "俺はお前",
-            role: "モデレーター",
+            role: "",
             image: "images/ore.png",
             x: "https://x.com/T4139282616645",
             youtube: "",
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "らふた",
-            role: "モデレーター",
+            role: "",
             image: "images/rafuta.png",
             x: "",
             youtube: "",
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "axie",
-            role: "アスリート",
+            role: "",
             image: "images/axie.png",
             x: "https://x.com/axiefnbr1",
             youtube: "",
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "kuya",
-            role: "アスリート",
+            role: "",
             image: "images/kuya.png",
             x: "https://x.com/AMKuyafv",
             youtube: "",
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "yuta",
-            role: "アスリート",
+            role: "",
             image: "images/yuta.png",
             x: "https://x.com/Eo5oqbd4rf85010",
             youtube: "",
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "ゆり",
-            role: "アスリート",
+            role: "",
             image: "images/yuri.png",
             x: "https://x.com/RtxGoe7",
             youtube: "",
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "えいちゃん",
-            role: "アスリート",
+            role: "",
             image: "images/eichan.png",
             x: "",
             youtube: "",
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "yufuto",
-            role: "アスリート",
+            role: "",
             image: "images/yufuto.png",
             x: "",
             youtube: "",
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "ヌーン",
-            role: "アスリート",
+            role: "",
             image: "images/noon.png",
             x: "",
             youtube: "",
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "ヒカル",
-            role: "アスリート",
+            role: "",
             image: "images/hikaru.png",
             x: "",
             youtube: "",
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "okapi",
-            role: "アスリート",
+            role: "",
             image: "images/okapi.png",
             x: "",
             youtube: "",
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "はなこ",
-            role: "アスリート",
+            role: "",
             image: "images/hanako.png",
             x: "https://x.com/hanako2niei",
             youtube: "",
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "如月 ねこ",
-            role: "アスリート",
+            role: "",
             image: "images/kisaragi.png",
             x: "https://x.com/ki3ragi_neko",
             youtube: "https://www.youtube.com/@kisaragi_neko02",
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name: "にゃんｺ",
-            role: "アスリート",
+            role: "",
             image: "images/nyanko.png",
             x: "https://x.com/Fusoku_neko",
             youtube: "",
