@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
             tiktok: "https://www.tiktok.com/@cs.yuta"
         },
         {
-            name: "ゆり",
+            name: "ヤリーナ",
             role: "",
             image: "images/yuri.png",
             x: "https://x.com/RtxGoe7",
