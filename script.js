@@ -130,6 +130,14 @@ document.addEventListener('DOMContentLoaded', () => {
             youtube: "",
             tiktok: "https://www.tiktok.com/@dt_net85"
         },
+        {
+            name: "茶猫ミーム！",
+            role: "",
+            image: "images/nyaneko.png",
+            x: "https://x.com/tyaMe_mfv",
+            youtube: "",
+            tiktok: "https://www.tiktok.com/@brownnnncato"
+        },
 
     ];
 
