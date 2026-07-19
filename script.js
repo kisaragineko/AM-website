@@ -123,14 +123,6 @@ document.addEventListener('DOMContentLoaded', () => {
             tiktok: "https://www.tiktok.com/@kisaragi_neko"
         },
         {
-            name: "にゃんｺ",
-            role: "",
-            image: "images/nyanko.png",
-            x: "https://x.com/Fusoku_neko",
-            youtube: "",
-            tiktok: "https://www.tiktok.com/@dt_net85"
-        },
-        {
             name: "茶猫ミーム！",
             role: "",
             image: "images/nyaneko.png",
